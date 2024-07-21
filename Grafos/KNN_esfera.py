@@ -38,10 +38,6 @@ grafoR3 = np.zeros((amostra,amostra))
 for i in range(len(X)):
   for j in range(len(X)):
 
-    if i>j:
-      grafoR3[i,j] = grafoR3[j,i]
-      continue
-
     if j in vizinhosR3[i]:
       for k in range(numero_vizinhos):
         if vizinhosR3[i][k] == j:

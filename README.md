@@ -8,6 +8,6 @@
   Os arquivos aqui presentes são os códigos escritos e utilizados no projeto.
 
   - Na pasta **Diferenças finitas** estão os códigos relacionados aos métodos de Euler, Runge-Kutta e Taylor.
-  - Na pasta **Grafos** estão os códigos relacionados ao algoritmo de Djkistra e ao KNN.
+  - Na pasta **Grafos** estão os códigos relacionados ao algoritmo de Dijkstra e ao KNN.
   - Na pasta **Comparações** estão as comparações entre as diferentes formas de aproximar geodésicas e, quando possível, as geodésicas exatas. 
   

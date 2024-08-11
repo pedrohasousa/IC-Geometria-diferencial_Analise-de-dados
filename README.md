@@ -9,5 +9,5 @@
 
   - Na pasta **Diferenças finitas** estão os códigos relacionados aos métodos de Euler, Runge-Kutta e Taylor.
   - Na pasta **Grafos** estão os códigos relacionados ao algoritmo de Dijkstra e ao KNN.
-  - Na pasta **Comparações** estão as comparações entre as diferentes formas de aproximar geodésicas e, quando possível, as geodésicas exatas. 
+  - Na pasta **Comparações** estão as comparações entre as geodésicas aproximadas pelos métodos estudados e as geodésicas exatas. 
   

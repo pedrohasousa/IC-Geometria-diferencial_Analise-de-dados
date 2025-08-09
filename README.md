@@ -1,4 +1,4 @@
-  Este é o repositório referente ao projeto de iniciação científica voluntária (PICVOL) feito pelo aluno Pedro Henrique de Almeida Sousa, do curso de matemática aplicada e computacional da Universidade Federal de Sergipe (UFS).
+  Este é o repositório referente a um projeto de iniciação científica voluntária (PICVOL) feito pelo aluno Pedro Henrique de Almeida Sousa, do curso de matemática aplicada e computacional da Universidade Federal de Sergipe (UFS).
 
   - **Título**: Aproximações de geodésicas aplicadas à análise de dados
   - **Plano de trabalho**: Diferenças finitas
